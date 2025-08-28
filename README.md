@@ -37,7 +37,7 @@ This project showcases my skills, projects, and contact information in a clean, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/codewithjoshuakj/portfolio.git
    cd portfolio
 2. Open the folder in VS Code
 
